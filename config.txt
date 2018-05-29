@@ -1,0 +1,19 @@
+[miscellany]
+enable-auto-props = yes
+[auto-props]
+*.mdl = svn:mime-type=application/octet-stream
+*.mat = svn:mime-type=application/octet-stream 
+*.slx = svn:mime-type= application/octet-stream
+*.mlx = svn:mime-type=application/octet-stream
+*.mdlp  = svn:mime-type=application/octet-stream
+*.slxp  = svn:mime-type=application/octet-stream
+*.sldd  = svn:mime-type=application/octet-stream
+*.p  = svn:mime-type=application/octet-stream
+*.mexa64  = svn:mime-type=application/octet-stream
+*.mexw64  = svn:mime-type=application/octet-stream
+*.mexmaci64  = svn:mime-type=application/octet-stream
+*.xlsx  = svn:mime-type=application/octet-stream
+*.docx  = svn:mime-type=application/octet-stream
+*.pdf  = svn:mime-type=application/octet-stream
+*.jpg  = svn:mime-type=application/octet-stream
+*.png  = svn:mime-type=application/octet-stream

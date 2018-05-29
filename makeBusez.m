@@ -1,0 +1,1 @@
+Simulink.Bus.createObject(bdroot, [bdroot '/Bus Creator'])
